@@ -58,3 +58,22 @@ Outcome:
 - Understood the concept of base case and recursive case.  
 - Built a foundation for solving more advanced recursion problems.  
 
+
+
+
+==================================================
+📅 Day 4 - Step 1 : Recursion Practice (Striver A2Z)
+==================================================
+Activities:
+- Focused on strengthening recursion skills and understanding how multiple recursive calls work.
+- Solved the following problems using recursion:
+  • Factorial of N numbers  
+  • Reverse an array  
+  • Check if a string is palindrome or not  
+  • Fibonacci Number  
+
+Outcome:
+- Improved understanding of recursion flow and base conditions.  
+- Learned how recursive functions call each other and maintain stack frames.  
+- Gained confidence to move towards advanced recursion problems. 
+
