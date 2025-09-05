@@ -36,3 +36,25 @@ Outcome:
 - Strengthened problem-solving using loops and conditionals.  
 - Gained confidence in applying mathematical logic with Java.  
 - Improved coding speed for beginner-level math-based problems. 
+
+
+
+
+
+==================================================
+📅 Day 3 - Step 1 : Understanding Recursion (Striver A2Z)
+==================================================
+Activities:
+- Learned the basics of recursion and how function calls work.
+- Practiced simple recursion problems in Java:
+  • Print something N times  
+  • Print name N times using recursion  
+  • Print numbers from 1 to N  
+  • Print numbers from N to 1  
+  • Find the sum of first N natural numbers  
+
+Outcome:
+- Gained clarity on how recursion replaces loops in certain problems.  
+- Understood the concept of base case and recursive case.  
+- Built a foundation for solving more advanced recursion problems.  
+
