@@ -77,3 +77,25 @@ Outcome:
 - Learned how recursive functions call each other and maintain stack frames.  
 - Gained confidence to move towards advanced recursion problems. 
 
+
+
+==================================================
+📅 Day 5 - Step 1 : Introduction to Hashing (Striver A2Z)
+==================================================
+Activities:
+- Explored the concept of **Hashing** and how it works internally.  
+- Learned about **HashMap** in Java and its applications.  
+- Practiced inserting and retrieving values using:
+  • put()  
+  • get()  
+  • containsKey()  
+  • containsValue()  
+- Understood how **key-value mapping** is done.  
+- Studied **collisions** in hashing and how they are handled.  
+
+Outcome:
+- Understood why hashing provides efficient search, insert, and delete operations.  
+- Gained clarity on how HashMap works internally in Java.  
+- Learned how to use HashMap methods effectively for problem-solving.  
+- Built a foundation for solving problems using hashing techniques.  
+
