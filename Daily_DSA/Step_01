@@ -79,6 +79,8 @@ Outcome:
 
 
 
+
+
 ==================================================
 📅 Day 5 - Step 1 : Introduction to Hashing (Striver A2Z)
 ==================================================
@@ -99,3 +101,21 @@ Outcome:
 - Learned how to use HashMap methods effectively for problem-solving.  
 - Built a foundation for solving problems using hashing techniques.  
 
+
+
+
+
+==================================================
+📅 Day 6 - Step 1 : HashMap Practice (Striver A2Z)
+==================================================
+Activities:
+- Continued exploring **HashMaps** in Java.  
+- Solved basic problems using HashMaps:
+  1. Find the **frequency of every key** in a dataset.  
+  2. Find the **key with maximum and minimum frequency**.  
+- Practiced iterating through keys and values efficiently.  
+
+Outcome:
+- Learned how to apply HashMaps to count occurrences.  
+- Gained understanding of finding max/min values using HashMap.  
+- Built confidence to use HashMaps for solving real DSA problems.
